@@ -1,4 +1,5 @@
-CityVision | Smart City Traffic Analytics (YOLOv8)
+**CityVision | Smart City Traffic Analytics (YOLOv8)
+**
 
 A portfolio-friendly Python computer-vision demo based on an existing YOLOv8 video detector.
 ![Stack: Python, Ultralytics YOLOv8, OpenCV](https://img.shields.io/badge/Python-YOLOv8%20%2B%20OpenCV-blue)
